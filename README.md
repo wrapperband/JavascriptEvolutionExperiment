@@ -16,9 +16,15 @@ Note that left hand circles seem to be the current best strategy to  get food at
 
 It should be noted the first time it was run it only took 48 hours for the bigger brains to find the food, so you might have more luck starting a couple.
 
+Once a population has evolved you can "stress it" by zooming out (Cntr - ). This increases the area, but reduces the food.
+
+
+
 In the experiments with https://github.com/wrapperband/JavascriptEvolutionExperiment and creating larger brains, I found that it took longer to evolve skills.
 
-Here is and example skills and evolve time for a large brain 6 neurons 7 layers.
+# Instinct or skills analysis
+
+Here is and example skills and evolve time for a large brain i.e. (6 neurons with 7 layers).
 
 The first skill learned was go forward  ( repeated starts (20) until some creatures move)
 Find Food 5 hours
